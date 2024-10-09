@@ -1,7 +1,7 @@
 # Preference Test README
 
 ## Overview
-This PHP tool allows users to vote on one of two image options. It records votes in a MySQL database and provides basic vote count statistics. Created by https://www.Userble.org - Open Source Usability Testing.
+This PHP tool allows users to vote on one of two image options. It records votes in a MySQL database and provides basic vote count statistics. Created by https://www.userble.org - Open Source Usability Testing.
 
 ### Setup
 
