@@ -26,3 +26,6 @@ $pass = 'YOUR DB PASSWORD';
 Works on most shared / managed hosting.
 PHP 7.4+
 MySQL
+
+### License
+Free, open source with attribution. View license file.
